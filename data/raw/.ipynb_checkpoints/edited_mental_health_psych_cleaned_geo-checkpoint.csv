@@ -1,0 +1,67 @@
+facility_name,facility_type,address,city,county,state,zip,capacity,latitude,longitude,other_details,phone_number
+7th Avenue Center,MHRC,1171 Seventh Avenue                      ,Santa Cruz,Santa Cruz County,CA,95062,99,36.974642,-121.996287,Co-Ed/Adult,(831) 476-1700
+Alpine Special Treatment Center,MHRC,2120 Alpine Boulevard,Alpine,San Diego County,CA,91901,128,32.836974,-116.768839,Co-Ed/Adult,(619) 445-2644                       
+Butte County  Mental Health Services,PHF,592 Rio Lindo Avenue,Chico,Butte County,CA,95926,16,39.754513,-121.84762,Co-Ed/Adult,(530) 891-2775
+California Psychiatric Transitions              ,MHRC,9226 N. Hinton Avenue          ,Delhi,Merced County,CA,95315,98,37.422232,-120.775289,Co-Ed/Adult,(209) 667-9304
+Canyon Manor,MHRC,655 Canyon Road,Novato,Marin County,CA,94947,89,38.097692,-122.581773,Co-Ed/Adult,(415) 892-1628 
+Cedar Grove,MHRC,1251 Stabler Lane,Yuba City,Sutter County,CA,95993,44,39.146061,-121.643036,Co-Ed/Adult,(530) 418-0500
+Central Star Psychiatric Health Facility,PHF,4411 E. Kings Canyon Road,Fresno,Fresno County,CA,93702,16,36.736529,-119.752473,Co-Ed/Children,(559) 600-2382
+Champion Healing Center,MHRC,303 South C street,Lompoc,Santa Barbara County,CA,93436,80,34.635976,-120.451765,Co-Ed /Adult,(805) 308-8720
+Cirby Hills Behavioral Health,PHF,101 Cirby Hills Drive,Roseville,Placer County,CA,95678,16,38.730611,-121.28631,Co-Ed/Adult,(916) 787-8900
+"Cordilleras Mental Health Center
+",MHRC,200 Edmonds Road,Redwood City,San Mateo County,CA,94062,68,37.474671,-122.282911,Co-Ed/Adult,(650) 367-1890
+Crestwood Behavioral Health Center,MHRC,2370 Buhne Street,Eureka,Humboldt County,CA,95501,42,40.785279,-124.141399,Co-Ed/Adult,(707) 442-5721
+Crestwood Behavioral Health Center - San Jose,MHRC,1425 Fruitdale Avenue,San Jose,Santa Clara County,CA,95128,100,37.311437,-121.915058,Co-Ed/Adult,(408) 275-1010
+Crestwood Behavioral Health Center-Bakersfield,MHRC,6700 Eucalyptus Drive,Bakersfield,Kern County,CA,93306,55,35.365766,-118.929724,Co-Ed/Adult,(661) 363-8127
+Crestwood C.E.N.T.E.R.,MHRC,295 Pine Breeze Drive,Angwin,Napa County,CA,94508,54,38.561696,-122.456333,Co-Ed/Adult,(707) 965-2461
+Crestwood Center,MHRC,2600 Stockton Boulevard,Sacramento,Sacramento County,CA,95817,54,38.552023,-121.456485,Co-Ed/Adult,(916) 452-1431
+Crestwood Chula Vista,MHRC,960 3rd Avenue                        ,Chula Vista,San Diego County,CA,91911,40,32.613469,-117.069199,Co-Ed/Adult,(619) 814-2379
+Crestwood Psychiatric Health,PHF,6700 Eucalyptus Drive,Bakersfield,Kern County,CA,93306,16,35.365766,-118.929724,Co-Ed/Adult,(661) 363-8127
+Crestwood Psychiatric Health Facility,PHF,4741 Engle Road,Carmichael,Sacramento County,CA,95608,16,38.63291,-121.354176,Co-Ed/Adult,"(916) 483-8424, 977- 0949"
+Crestwood Psychiatric Health Facility,PHF,2600 Stockton Boulevard,Sacramento,Sacramento County,CA,95817,16,38.552023,-121.456485,Co-Ed/Adult,(916) 452-1431
+Crestwood Psychiatric Health Facility,PHF,1425 Fruitdale Avenue,San Jose,Santa Clara County,CA,95128,16,37.311437,-121.915058,Co-Ed/Adult,(408) 275-1010
+Crestwood Recovery and Rehabilitation,MHRC,115 Oddstad Drive,Vallejo,Solano County,CA,94589,91,38.129721,-122.240672,Co-Ed/Adult,(707) 552-0215
+Crestwood San Diego,MHRC,5550 University Avenue ,San Diego,San Diego County,CA,92105,109,32.749508,-117.076596,Co-Ed/Adult,(619) 481-6790
+Crestwood Solano Psychiatric Health Facility,PHF,2201 Tuolumne Street,Vallejo,Solano County,CA,94589,16,38.130623,-122.241154,Co-Ed/Adult,(707) 558-1777
+Exodus Psyciatric Health Facility Fresno    ,PHF,"4411 E. Kings Canyon Road
+",Fresno,Fresno County,CA,93702,16,36.736529,-119.752473,Co-Ed/Adult,(559) 600-7180
+Exodus Recovery,PHF,9808 Venice Boulevard,Culver City,Los Angeles County,CA,90232,16,34.023492,-118.398016,Co-Ed/Adult,(310) 237-0454
+Fallbrook Healing Center    ,MHRC,624 E. Elder Street,Fallbrook,San Diego County,CA,92028,132,33.380771,-117.244479,Co-Ed/Adult,(760) 451-4165 
+Gladman,MHRC,2633 East 27th Street,Oakland,Alameda County,CA,94601,40,37.790631,-122.222231,Co-Ed/Adult,(510) 536-8111
+Golden Hillmont House ,MHRC,1750A Lewis Road,Camarillo,Ventura County,CA,93012,15,34.186481,-119.036677,Co-Ed/Adult,(805) 702-2930              
+Harborview Center ,MHRC,490 W. 14th Street          ,Long Beach,Los Angeles County,CA,90813,65,33.783438,-118.197654,Co-Ed/Adult,(562) 591-8701 
+Heritage Oaks Patient Enrichment Center,PHF,4378 Auburn Boulevard,Sacramento,Sacramento County,CA,95841,16,38.645035,-121.36139,Co-Ed/Adult,(279) 348-7200
+Horizon View,MHRC,333 Skyway Drive,Camarillo,Ventura County,CA,93010,16,34.206071,-119.080687,Co-Ed/Adult,(805) 383-1155
+Kaiser  Permanente Psychiatric Health Facility - Santa Clara,PHF,3840 Homestead Road,Santa Clara,Santa Clara County,CA,95051,24,37.336382,-122.002114,Co-Ed/Adult,(408) 851-4850
+Kingsburg Healing Center           ,MHRC,1200 Smith Street,Kingsburg,Fresno County,CA,93631,66,36.513316,-119.548413,Co-Ed/Adult,(559) 238-6981
+La Casa,MHRC,6060 Paramount Boulevard,Long Beach,Los Angeles County,CA,90805,190,33.865168,-118.15771,Co-Ed/Adult,(562) 634-9534
+La Casa  Psychiatric Health Facility,PHF,6060 Paramount Boulevard,Long Beach,Los Angeles County,CA,90805,16,33.865168,-118.15771,Co-Ed/Adult,(562) 630 8672
+Marie Green  Psychiatric Center,PHF,300 East 15th Street,Merced,Merced County,CA,95340,16,37.293406,-120.470518,Co-Ed/Adult,(209) 381-6879 
+Montare Behavioral Health,MHRC,15350 Sutton Street,Sherman Oaks,Los Angeles County,CA,90403,6,34.150164,-118.469272,Co-Ed/Adult,(818) 849-6727
+North Valley Behavioral Center,PHF,1535 Plumas Court,Yuba City,Sutter County,CA,95991,16,39.153645,-121.617499,Co-Ed/Adult,(530) 790-2520
+Ocean View Psychiatric Health Facility,PHF,2600 Redondo Avenue,Long Beach,Los Angeles County,CA,90806,36,33.805799,-118.150662,Co-Ed/Adult,(562)304-1740 
+Redwood Place Mental Health Rehabilitation Center,MHRC,18949 Redwood Road,Castro Valley,Alameda County,CA,94546,15,37.707819,-122.074347,Co-Ed/Adult,(510) 881-1606
+Restpadd Psychiatric Health Facility,PHF,2750 Eureka Way,Redding,Shasta County,CA,96001,16,40.58617,-122.411593,Co-Ed/Adult,(530) 262-6700
+Restpadd Red Bluff Psychiatric Health Facility,PHF,925 Walnut Street      ,Red Bluff,Tehama County,CA,96080,16,40.174674,-122.242471,Co-Ed/Adult- Children,(530) 567-7300
+Riverside County Telecare Mental Health Rehabilitation Center,MHRC,3933 Harrison Street,Riverside,Riverside County,CA,92503,31,33.919464,-117.45345,Co-Ed/Adult,(951) 358-4700
+Royale Health Care Center,MHRC,23228 Madero Avenue,Mission Viejo,Orange County,CA,92691,80,33.62601,-117.679581,Co-Ed/Adult,(949) 900-4580
+Sacramento County Mental Health Treatment Center,PHF,2150 Stockton Boulevard,Sacramento,Sacramento County,CA,95817,50,38.557383,-121.461348,Co-Ed/Adult,(916) 875-1000 
+San Francisco Healing Center,MHRC,450 Stanyan Street,San Francisco,San Francisco County,CA,94117,54,37.774059,-122.454188,Co-Ed/Adult,(415) 213-7993
+San Francisco Mental Health Rehabilitation Center,MHRC,887 Potrero Avenue,San Francisco,San Francisco County,CA,94110,47,37.757986,-122.406361,Co-Ed/Adult,(628) 206-6300
+San Joaquin Psychiatric Health Facility,PHF,1212 N. California Street,Stockton,San Joaquin County,CA,95202,16,37.966919,-121.287495,Co-Ed/Adult,(209) 468-8720
+San Luis Obispo County Psychiatric Health Facility,PHF,2178 Johnson Avenue,San Luis Obispo,San Luis Obispo County,CA,93401,16,35.275409,-120.646555,Co-Ed/Adult,(805) 781-4711 
+Sanger Place,MHRC,2511 Jensen Avenue,Sanger,Fresno County,CA,93657,15,36.706363,-119.572219,Co-Ed/Adult,(559) 875-3023
+Santa Barbara Psychiatric Health Facility,PHF,315 Camino del Remedio,Santa Barbara,Santa Barbara County,CA,93110,16,34.446389,-119.779757,Co-Ed/Adult,(805) 681-5244 
+Sempervirens  Psychiatric Health Facility,PHF,720 Wood Street,Eureka,Humboldt County,CA,95501,16,40.781043,-124.161107,Co-Ed/Adult,(707) 445-7710 
+Sequoia Psychiatric Treatment Center,MHRC,1541 Plumas Court,Yuba City,Sutter County,CA,95991,16,39.153819,-121.615212,Co-Ed/Adult,(530) 751-9980
+Crestwood  Sonoma County Healing Center,PHF,7440 Rancho Los Guillicos Road,Santa Rosa,Sonoma County,CA,94509,16,38.439629,-122.58131,Co-Ed/Adult,(916) 471-2235
+Stabler Lane Behavioral Health,PHF,1252 Stabler Lane,Yuba City,Sutter County,CA,95993,16,39.146488,-121.644106,Co-Ed/Adult,(530) 418-0444
+Star View Adolescent Psychiatric Health Facility,PHF,4025 W. 226 Street,Torrance,Los Angeles County,CA,90505,16,33.823408,-118.35594,Co-Ed/Children,(310) 373-4556 
+Sutter/Yuba Psychiatric Health Facility,PHF,1965 Live Oak Boulevard,Yuba City,Sutter County,CA,95991,16,39.155712,-121.618475,Co-Ed/Adult,(530) 822-7209
+Telecare El Dorado County Psychiatric Health Facility,PHF,935-B Spring Street,Placerville,El Dorado County,CA,95667,16,38.732388,-120.801948,Co-Ed/Adult,(530) 621-6213
+Telecare Heritage Psychiatric Health Facility,PHF,2633 East 27th Street,Oakland,Alameda County,CA,94601,26,37.790631,-122.222231,Co-Ed/Adult,(510) 535-5115 
+Telecare Riverside County Psychiatric Health Facility,PHF,47-915 Oasis Street,Indio,Riverside County,CA,92201,59,33.712015,-116.220702,Co-Ed/Adult,(760) 863-8650
+Telecare Santa Cruz County Psychiatric Health Facility,PHF,2250 Soquel Avenue,Santa Cruz,Santa Cruz County,CA,95062,16,36.983218,-121.993896,Co-Ed/Adult,(831) 600-2801
+Telecare Stanislaus County PHF,PHF,1904  Richland Avenue,Ceres,Stanislaus County,CA,95307,16,37.600237,-120.963791,Co-Ed/Adult,(209) 300-8800
+Telecare Willow Rock Center,PHF,2050 Fairmont Drive,San Leanro,Alameda County,CA,94578,16,37.709491,-122.118384,Co-Ed/Children,(510) 895-5502
+Villa Fairmont,MHRC,15200 Foothill Boulevard,San Leandro,Alameda County,CA,94578,99,37.709628,-122.12154,Co-Ed/Adult,(510) 352-9690

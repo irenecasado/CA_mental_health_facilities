@@ -1,0 +1,407 @@
+﻿year,county,geography_type,cause,deaths
+2014,Alameda,Residence,Intentional self-harm (suicide),162
+2014,Alpine,Residence,Intentional self-harm (suicide),0
+2014,Amador,Residence,Intentional self-harm (suicide),18
+2014,Butte,Residence,Intentional self-harm (suicide),35
+2014,Calaveras,Residence,Intentional self-harm (suicide),
+2014,Colusa,Residence,Intentional self-harm (suicide),
+2014,Contra Costa,Residence,Intentional self-harm (suicide),104
+2014,Del Norte,Residence,Intentional self-harm (suicide),
+2014,El Dorado,Residence,Intentional self-harm (suicide),34
+2014,Fresno,Residence,Intentional self-harm (suicide),104
+2014,Glenn,Residence,Intentional self-harm (suicide),
+2014,Humboldt,Residence,Intentional self-harm (suicide),35
+2014,Imperial,Residence,Intentional self-harm (suicide),13
+2014,Inyo,Residence,Intentional self-harm (suicide),
+2014,Kern,Residence,Intentional self-harm (suicide),121
+2014,Kings,Residence,Intentional self-harm (suicide),16
+2014,Lake,Residence,Intentional self-harm (suicide),17
+2014,Lassen,Residence,Intentional self-harm (suicide),
+2014,Los Angeles,Residence,Intentional self-harm (suicide),805
+2014,Madera,Residence,Intentional self-harm (suicide),18
+2014,Marin,Residence,Intentional self-harm (suicide),42
+2014,Mariposa,Residence,Intentional self-harm (suicide),
+2014,Mendocino,Residence,Intentional self-harm (suicide),23
+2014,Merced,Residence,Intentional self-harm (suicide),20
+2014,Modoc,Residence,Intentional self-harm (suicide),
+2014,Mono,Residence,Intentional self-harm (suicide),0
+2014,Monterey,Residence,Intentional self-harm (suicide),49
+2014,Napa,Residence,Intentional self-harm (suicide),15
+2014,Nevada,Residence,Intentional self-harm (suicide),23
+2014,Orange,Residence,Intentional self-harm (suicide),356
+2014,Placer,Residence,Intentional self-harm (suicide),50
+2014,Plumas,Residence,Intentional self-harm (suicide),
+2014,Riverside,Residence,Intentional self-harm (suicide),224
+2014,Sacramento,Residence,Intentional self-harm (suicide),209
+2014,San Benito,Residence,Intentional self-harm (suicide),
+2014,San Bernardino,Residence,Intentional self-harm (suicide),195
+2014,San Diego,Residence,Intentional self-harm (suicide),413
+2014,San Francisco,Residence,Intentional self-harm (suicide),73
+2014,San Joaquin,Residence,Intentional self-harm (suicide),81
+2014,San Luis Obispo,Residence,Intentional self-harm (suicide),53
+2014,San Mateo,Residence,Intentional self-harm (suicide),58
+2014,Santa Barbara,Residence,Intentional self-harm (suicide),55
+2014,Santa Clara,Residence,Intentional self-harm (suicide),155
+2014,Santa Cruz,Residence,Intentional self-harm (suicide),43
+2014,Shasta,Residence,Intentional self-harm (suicide),51
+2014,Sierra,Residence,Intentional self-harm (suicide),
+2014,Siskiyou,Residence,Intentional self-harm (suicide),13
+2014,Solano,Residence,Intentional self-harm (suicide),66
+2014,Sonoma,Residence,Intentional self-harm (suicide),87
+2014,Stanislaus,Residence,Intentional self-harm (suicide),62
+2014,Sutter,Residence,Intentional self-harm (suicide),28
+2014,Tehama,Residence,Intentional self-harm (suicide),11
+2014,Trinity,Residence,Intentional self-harm (suicide),
+2014,Tulare,Residence,Intentional self-harm (suicide),41
+2014,Tuolumne,Residence,Intentional self-harm (suicide),11
+2014,Ventura,Residence,Intentional self-harm (suicide),94
+2014,Yolo,Residence,Intentional self-harm (suicide),20
+2014,Yuba,Residence,Intentional self-harm (suicide),13
+2015,Alameda,Residence,Intentional self-harm (suicide),148
+2015,Alpine,Residence,Intentional self-harm (suicide),0
+2015,Amador,Residence,Intentional self-harm (suicide),
+2015,Butte,Residence,Intentional self-harm (suicide),40
+2015,Calaveras,Residence,Intentional self-harm (suicide),22
+2015,Colusa,Residence,Intentional self-harm (suicide),
+2015,Contra Costa,Residence,Intentional self-harm (suicide),112
+2015,Del Norte,Residence,Intentional self-harm (suicide),
+2015,El Dorado,Residence,Intentional self-harm (suicide),32
+2015,Fresno,Residence,Intentional self-harm (suicide),100
+2015,Glenn,Residence,Intentional self-harm (suicide),
+2015,Humboldt,Residence,Intentional self-harm (suicide),38
+2015,Imperial,Residence,Intentional self-harm (suicide),18
+2015,Inyo,Residence,Intentional self-harm (suicide),
+2015,Kern,Residence,Intentional self-harm (suicide),117
+2015,Kings,Residence,Intentional self-harm (suicide),14
+2015,Lake,Residence,Intentional self-harm (suicide),24
+2015,Lassen,Residence,Intentional self-harm (suicide),
+2015,Los Angeles,Residence,Intentional self-harm (suicide),834
+2015,Madera,Residence,Intentional self-harm (suicide),12
+2015,Marin,Residence,Intentional self-harm (suicide),31
+2015,Mariposa,Residence,Intentional self-harm (suicide),
+2015,Mendocino,Residence,Intentional self-harm (suicide),15
+2015,Merced,Residence,Intentional self-harm (suicide),36
+2015,Modoc,Residence,Intentional self-harm (suicide),
+2015,Mono,Residence,Intentional self-harm (suicide),0
+2015,Monterey,Residence,Intentional self-harm (suicide),52
+2015,Napa,Residence,Intentional self-harm (suicide),18
+2015,Nevada,Residence,Intentional self-harm (suicide),27
+2015,Orange,Residence,Intentional self-harm (suicide),293
+2015,Placer,Residence,Intentional self-harm (suicide),46
+2015,Plumas,Residence,Intentional self-harm (suicide),
+2015,Riverside,Residence,Intentional self-harm (suicide),260
+2015,Sacramento,Residence,Intentional self-harm (suicide),196
+2015,San Benito,Residence,Intentional self-harm (suicide),
+2015,San Bernardino,Residence,Intentional self-harm (suicide),223
+2015,San Diego,Residence,Intentional self-harm (suicide),412
+2015,San Francisco,Residence,Intentional self-harm (suicide),98
+2015,San Joaquin,Residence,Intentional self-harm (suicide),68
+2015,San Luis Obispo,Residence,Intentional self-harm (suicide),49
+2015,San Mateo,Residence,Intentional self-harm (suicide),57
+2015,Santa Barbara,Residence,Intentional self-harm (suicide),69
+2015,Santa Clara,Residence,Intentional self-harm (suicide),158
+2015,Santa Cruz,Residence,Intentional self-harm (suicide),45
+2015,Shasta,Residence,Intentional self-harm (suicide),45
+2015,Sierra,Residence,Intentional self-harm (suicide),
+2015,Siskiyou,Residence,Intentional self-harm (suicide),12
+2015,Solano,Residence,Intentional self-harm (suicide),58
+2015,Sonoma,Residence,Intentional self-harm (suicide),66
+2015,Stanislaus,Residence,Intentional self-harm (suicide),49
+2015,Sutter,Residence,Intentional self-harm (suicide),
+2015,Tehama,Residence,Intentional self-harm (suicide),
+2015,Trinity,Residence,Intentional self-harm (suicide),
+2015,Tulare,Residence,Intentional self-harm (suicide),53
+2015,Tuolumne,Residence,Intentional self-harm (suicide),16
+2015,Ventura,Residence,Intentional self-harm (suicide),109
+2015,Yolo,Residence,Intentional self-harm (suicide),26
+2015,Yuba,Residence,Intentional self-harm (suicide),15
+2016,Alameda,Residence,Intentional self-harm (suicide),157
+2016,Alpine,Residence,Intentional self-harm (suicide),0
+2016,Amador,Residence,Intentional self-harm (suicide),
+2016,Butte,Residence,Intentional self-harm (suicide),49
+2016,Calaveras,Residence,Intentional self-harm (suicide),
+2016,Colusa,Residence,Intentional self-harm (suicide),
+2016,Contra Costa,Residence,Intentional self-harm (suicide),142
+2016,Del Norte,Residence,Intentional self-harm (suicide),
+2016,El Dorado,Residence,Intentional self-harm (suicide),41
+2016,Fresno,Residence,Intentional self-harm (suicide),103
+2016,Glenn,Residence,Intentional self-harm (suicide),
+2016,Humboldt,Residence,Intentional self-harm (suicide),36
+2016,Imperial,Residence,Intentional self-harm (suicide),13
+2016,Inyo,Residence,Intentional self-harm (suicide),
+2016,Kern,Residence,Intentional self-harm (suicide),122
+2016,Kings,Residence,Intentional self-harm (suicide),14
+2016,Lake,Residence,Intentional self-harm (suicide),15
+2016,Lassen,Residence,Intentional self-harm (suicide),
+2016,Los Angeles,Residence,Intentional self-harm (suicide),841
+2016,Madera,Residence,Intentional self-harm (suicide),14
+2016,Marin,Residence,Intentional self-harm (suicide),47
+2016,Mariposa,Residence,Intentional self-harm (suicide),
+2016,Mendocino,Residence,Intentional self-harm (suicide),20
+2016,Merced,Residence,Intentional self-harm (suicide),32
+2016,Modoc,Residence,Intentional self-harm (suicide),
+2016,Mono,Residence,Intentional self-harm (suicide),
+2016,Monterey,Residence,Intentional self-harm (suicide),36
+2016,Napa,Residence,Intentional self-harm (suicide),12
+2016,Nevada,Residence,Intentional self-harm (suicide),17
+2016,Orange,Residence,Intentional self-harm (suicide),321
+2016,Placer,Residence,Intentional self-harm (suicide),55
+2016,Plumas,Residence,Intentional self-harm (suicide),
+2016,Riverside,Residence,Intentional self-harm (suicide),286
+2016,Sacramento,Residence,Intentional self-harm (suicide),192
+2016,San Benito,Residence,Intentional self-harm (suicide),
+2016,San Bernardino,Residence,Intentional self-harm (suicide),229
+2016,San Diego,Residence,Intentional self-harm (suicide),416
+2016,San Francisco,Residence,Intentional self-harm (suicide),114
+2016,San Joaquin,Residence,Intentional self-harm (suicide),74
+2016,San Luis Obispo,Residence,Intentional self-harm (suicide),60
+2016,San Mateo,Residence,Intentional self-harm (suicide),65
+2016,Santa Barbara,Residence,Intentional self-harm (suicide),53
+2016,Santa Clara,Residence,Intentional self-harm (suicide),146
+2016,Santa Cruz,Residence,Intentional self-harm (suicide),49
+2016,Shasta,Residence,Intentional self-harm (suicide),37
+2016,Sierra,Residence,Intentional self-harm (suicide),
+2016,Siskiyou,Residence,Intentional self-harm (suicide),15
+2016,Solano,Residence,Intentional self-harm (suicide),47
+2016,Sonoma,Residence,Intentional self-harm (suicide),71
+2016,Stanislaus,Residence,Intentional self-harm (suicide),63
+2016,Sutter,Residence,Intentional self-harm (suicide),19
+2016,Tehama,Residence,Intentional self-harm (suicide),16
+2016,Trinity,Residence,Intentional self-harm (suicide),
+2016,Tulare,Residence,Intentional self-harm (suicide),42
+2016,Tuolumne,Residence,Intentional self-harm (suicide),12
+2016,Ventura,Residence,Intentional self-harm (suicide),90
+2016,Yolo,Residence,Intentional self-harm (suicide),30
+2016,Yuba,Residence,Intentional self-harm (suicide),11
+2017,Alameda,Residence,Intentional self-harm (suicide),143
+2017,Alpine,Residence,Intentional self-harm (suicide),0
+2017,Amador,Residence,Intentional self-harm (suicide),
+2017,Butte,Residence,Intentional self-harm (suicide),42
+2017,Calaveras,Residence,Intentional self-harm (suicide),11
+2017,Colusa,Residence,Intentional self-harm (suicide),
+2017,Contra Costa,Residence,Intentional self-harm (suicide),107
+2017,Del Norte,Residence,Intentional self-harm (suicide),
+2017,El Dorado,Residence,Intentional self-harm (suicide),32
+2017,Fresno,Residence,Intentional self-harm (suicide),106
+2017,Glenn,Residence,Intentional self-harm (suicide),
+2017,Humboldt,Residence,Intentional self-harm (suicide),22
+2017,Imperial,Residence,Intentional self-harm (suicide),18
+2017,Inyo,Residence,Intentional self-harm (suicide),
+2017,Kern,Residence,Intentional self-harm (suicide),121
+2017,Kings,Residence,Intentional self-harm (suicide),24
+2017,Lake,Residence,Intentional self-harm (suicide),21
+2017,Lassen,Residence,Intentional self-harm (suicide),
+2017,Los Angeles,Residence,Intentional self-harm (suicide),888
+2017,Madera,Residence,Intentional self-harm (suicide),25
+2017,Marin,Residence,Intentional self-harm (suicide),43
+2017,Mariposa,Residence,Intentional self-harm (suicide),
+2017,Mendocino,Residence,Intentional self-harm (suicide),25
+2017,Merced,Residence,Intentional self-harm (suicide),21
+2017,Modoc,Residence,Intentional self-harm (suicide),0
+2017,Mono,Residence,Intentional self-harm (suicide),
+2017,Monterey,Residence,Intentional self-harm (suicide),36
+2017,Napa,Residence,Intentional self-harm (suicide),18
+2017,Nevada,Residence,Intentional self-harm (suicide),20
+2017,Orange,Residence,Intentional self-harm (suicide),326
+2017,Placer,Residence,Intentional self-harm (suicide),49
+2017,Plumas,Residence,Intentional self-harm (suicide),
+2017,Riverside,Residence,Intentional self-harm (suicide),272
+2017,Sacramento,Residence,Intentional self-harm (suicide),213
+2017,San Benito,Residence,Intentional self-harm (suicide),
+2017,San Bernardino,Residence,Intentional self-harm (suicide),227
+2017,San Diego,Residence,Intentional self-harm (suicide),431
+2017,San Francisco,Residence,Intentional self-harm (suicide),103
+2017,San Joaquin,Residence,Intentional self-harm (suicide),82
+2017,San Luis Obispo,Residence,Intentional self-harm (suicide),56
+2017,San Mateo,Residence,Intentional self-harm (suicide),58
+2017,Santa Barbara,Residence,Intentional self-harm (suicide),58
+2017,Santa Clara,Residence,Intentional self-harm (suicide),142
+2017,Santa Cruz,Residence,Intentional self-harm (suicide),44
+2017,Shasta,Residence,Intentional self-harm (suicide),55
+2017,Sierra,Residence,Intentional self-harm (suicide),
+2017,Siskiyou,Residence,Intentional self-harm (suicide),
+2017,Solano,Residence,Intentional self-harm (suicide),48
+2017,Sonoma,Residence,Intentional self-harm (suicide),70
+2017,Stanislaus,Residence,Intentional self-harm (suicide),55
+2017,Sutter,Residence,Intentional self-harm (suicide),14
+2017,Tehama,Residence,Intentional self-harm (suicide),
+2017,Trinity,Residence,Intentional self-harm (suicide),
+2017,Tulare,Residence,Intentional self-harm (suicide),53
+2017,Tuolumne,Residence,Intentional self-harm (suicide),14
+2017,Ventura,Residence,Intentional self-harm (suicide),95
+2017,Yolo,Residence,Intentional self-harm (suicide),23
+2017,Yuba,Residence,Intentional self-harm (suicide),16
+2018,Alameda,Residence,Intentional self-harm (suicide),169
+2018,Alpine,Residence,Intentional self-harm (suicide),
+2018,Amador,Residence,Intentional self-harm (suicide),14
+2018,Butte,Residence,Intentional self-harm (suicide),55
+2018,Calaveras,Residence,Intentional self-harm (suicide),14
+2018,Colusa,Residence,Intentional self-harm (suicide),
+2018,Contra Costa,Residence,Intentional self-harm (suicide),116
+2018,Del Norte,Residence,Intentional self-harm (suicide),
+2018,El Dorado,Residence,Intentional self-harm (suicide),24
+2018,Fresno,Residence,Intentional self-harm (suicide),113
+2018,Glenn,Residence,Intentional self-harm (suicide),
+2018,Humboldt,Residence,Intentional self-harm (suicide),37
+2018,Imperial,Residence,Intentional self-harm (suicide),
+2018,Inyo,Residence,Intentional self-harm (suicide),
+2018,Kern,Residence,Intentional self-harm (suicide),104
+2018,Kings,Residence,Intentional self-harm (suicide),19
+2018,Lake,Residence,Intentional self-harm (suicide),21
+2018,Lassen,Residence,Intentional self-harm (suicide),14
+2018,Los Angeles,Residence,Intentional self-harm (suicide),940
+2018,Madera,Residence,Intentional self-harm (suicide),18
+2018,Marin,Residence,Intentional self-harm (suicide),38
+2018,Mariposa,Residence,Intentional self-harm (suicide),
+2018,Mendocino,Residence,Intentional self-harm (suicide),
+2018,Merced,Residence,Intentional self-harm (suicide),18
+2018,Modoc,Residence,Intentional self-harm (suicide),
+2018,Mono,Residence,Intentional self-harm (suicide),0
+2018,Monterey,Residence,Intentional self-harm (suicide),40
+2018,Napa,Residence,Intentional self-harm (suicide),12
+2018,Nevada,Residence,Intentional self-harm (suicide),22
+2018,Orange,Residence,Intentional self-harm (suicide),373
+2018,Placer,Residence,Intentional self-harm (suicide),54
+2018,Plumas,Residence,Intentional self-harm (suicide),
+2018,Riverside,Residence,Intentional self-harm (suicide),310
+2018,Sacramento,Residence,Intentional self-harm (suicide),210
+2018,San Benito,Residence,Intentional self-harm (suicide),
+2018,San Bernardino,Residence,Intentional self-harm (suicide),238
+2018,San Diego,Residence,Intentional self-harm (suicide),449
+2018,San Francisco,Residence,Intentional self-harm (suicide),77
+2018,San Joaquin,Residence,Intentional self-harm (suicide),77
+2018,San Luis Obispo,Residence,Intentional self-harm (suicide),57
+2018,San Mateo,Residence,Intentional self-harm (suicide),75
+2018,Santa Barbara,Residence,Intentional self-harm (suicide),51
+2018,Santa Clara,Residence,Intentional self-harm (suicide),158
+2018,Santa Cruz,Residence,Intentional self-harm (suicide),41
+2018,Shasta,Residence,Intentional self-harm (suicide),48
+2018,Sierra,Residence,Intentional self-harm (suicide),
+2018,Siskiyou,Residence,Intentional self-harm (suicide),
+2018,Solano,Residence,Intentional self-harm (suicide),72
+2018,Sonoma,Residence,Intentional self-harm (suicide),77
+2018,Stanislaus,Residence,Intentional self-harm (suicide),59
+2018,Sutter,Residence,Intentional self-harm (suicide),
+2018,Tehama,Residence,Intentional self-harm (suicide),19
+2018,Trinity,Residence,Intentional self-harm (suicide),
+2018,Tulare,Residence,Intentional self-harm (suicide),44
+2018,Tuolumne,Residence,Intentional self-harm (suicide),14
+2018,Ventura,Residence,Intentional self-harm (suicide),100
+2018,Yolo,Residence,Intentional self-harm (suicide),15
+2018,Yuba,Residence,Intentional self-harm (suicide),16
+2019,Alameda,Residence,Intentional self-harm (suicide),160
+2019,Alpine,Residence,Intentional self-harm (suicide),0
+2019,Amador,Residence,Intentional self-harm (suicide),14
+2019,Butte,Residence,Intentional self-harm (suicide),44
+2019,Calaveras,Residence,Intentional self-harm (suicide),
+2019,Colusa,Residence,Intentional self-harm (suicide),
+2019,Contra Costa,Residence,Intentional self-harm (suicide),115
+2019,Del Norte,Residence,Intentional self-harm (suicide),
+2019,El Dorado,Residence,Intentional self-harm (suicide),42
+2019,Fresno,Residence,Intentional self-harm (suicide),104
+2019,Glenn,Residence,Intentional self-harm (suicide),
+2019,Humboldt,Residence,Intentional self-harm (suicide),30
+2019,Imperial,Residence,Intentional self-harm (suicide),11
+2019,Inyo,Residence,Intentional self-harm (suicide),
+2019,Kern,Residence,Intentional self-harm (suicide),127
+2019,Kings,Residence,Intentional self-harm (suicide),26
+2019,Lake,Residence,Intentional self-harm (suicide),17
+2019,Lassen,Residence,Intentional self-harm (suicide),
+2019,Los Angeles,Residence,Intentional self-harm (suicide),864
+2019,Madera,Residence,Intentional self-harm (suicide),18
+2019,Marin,Residence,Intentional self-harm (suicide),48
+2019,Mariposa,Residence,Intentional self-harm (suicide),
+2019,Mendocino,Residence,Intentional self-harm (suicide),21
+2019,Merced,Residence,Intentional self-harm (suicide),28
+2019,Modoc,Residence,Intentional self-harm (suicide),
+2019,Mono,Residence,Intentional self-harm (suicide),
+2019,Monterey,Residence,Intentional self-harm (suicide),42
+2019,Napa,Residence,Intentional self-harm (suicide),19
+2019,Nevada,Residence,Intentional self-harm (suicide),20
+2019,Orange,Residence,Intentional self-harm (suicide),346
+2019,Placer,Residence,Intentional self-harm (suicide),59
+2019,Plumas,Residence,Intentional self-harm (suicide),
+2019,Riverside,Residence,Intentional self-harm (suicide),320
+2019,Sacramento,Residence,Intentional self-harm (suicide),209
+2019,San Benito,Residence,Intentional self-harm (suicide),
+2019,San Bernardino,Residence,Intentional self-harm (suicide),238
+2019,San Diego,Residence,Intentional self-harm (suicide),427
+2019,San Francisco,Residence,Intentional self-harm (suicide),90
+2019,San Joaquin,Residence,Intentional self-harm (suicide),82
+2019,San Luis Obispo,Residence,Intentional self-harm (suicide),47
+2019,San Mateo,Residence,Intentional self-harm (suicide),62
+2019,Santa Barbara,Residence,Intentional self-harm (suicide),61
+2019,Santa Clara,Residence,Intentional self-harm (suicide),171
+2019,Santa Cruz,Residence,Intentional self-harm (suicide),44
+2019,Shasta,Residence,Intentional self-harm (suicide),52
+2019,Sierra,Residence,Intentional self-harm (suicide),0
+2019,Siskiyou,Residence,Intentional self-harm (suicide),12
+2019,Solano,Residence,Intentional self-harm (suicide),59
+2019,Sonoma,Residence,Intentional self-harm (suicide),83
+2019,Stanislaus,Residence,Intentional self-harm (suicide),75
+2019,Sutter,Residence,Intentional self-harm (suicide),12
+2019,Tehama,Residence,Intentional self-harm (suicide),12
+2019,Trinity,Residence,Intentional self-harm (suicide),
+2019,Tulare,Residence,Intentional self-harm (suicide),29
+2019,Tuolumne,Residence,Intentional self-harm (suicide),11
+2019,Ventura,Residence,Intentional self-harm (suicide),95
+2019,Yolo,Residence,Intentional self-harm (suicide),24
+2019,Yuba,Residence,Intentional self-harm (suicide),17
+2020,Alameda,Residence,Intentional self-harm (suicide),141
+2020,Alpine,Residence,Intentional self-harm (suicide),0
+2020,Amador,Residence,Intentional self-harm (suicide),12
+2020,Butte,Residence,Intentional self-harm (suicide),43
+2020,Calaveras,Residence,Intentional self-harm (suicide),13
+2020,Colusa,Residence,Intentional self-harm (suicide),
+2020,Contra Costa,Residence,Intentional self-harm (suicide),108
+2020,Del Norte,Residence,Intentional self-harm (suicide),
+2020,El Dorado,Residence,Intentional self-harm (suicide),34
+2020,Fresno,Residence,Intentional self-harm (suicide),108
+2020,Glenn,Residence,Intentional self-harm (suicide),
+2020,Humboldt,Residence,Intentional self-harm (suicide),26
+2020,Imperial,Residence,Intentional self-harm (suicide),12
+2020,Inyo,Residence,Intentional self-harm (suicide),
+2020,Kern,Residence,Intentional self-harm (suicide),121
+2020,Kings,Residence,Intentional self-harm (suicide),18
+2020,Lake,Residence,Intentional self-harm (suicide),11
+2020,Lassen,Residence,Intentional self-harm (suicide),
+2020,Los Angeles,Residence,Intentional self-harm (suicide),849
+2020,Madera,Residence,Intentional self-harm (suicide),16
+2020,Marin,Residence,Intentional self-harm (suicide),36
+2020,Mariposa,Residence,Intentional self-harm (suicide),
+2020,Mendocino,Residence,Intentional self-harm (suicide),29
+2020,Merced,Residence,Intentional self-harm (suicide),25
+2020,Modoc,Residence,Intentional self-harm (suicide),0
+2020,Mono,Residence,Intentional self-harm (suicide),
+2020,Monterey,Residence,Intentional self-harm (suicide),48
+2020,Napa,Residence,Intentional self-harm (suicide),21
+2020,Nevada,Residence,Intentional self-harm (suicide),25
+2020,Orange,Residence,Intentional self-harm (suicide),295
+2020,Placer,Residence,Intentional self-harm (suicide),60
+2020,Plumas,Residence,Intentional self-harm (suicide),
+2020,Riverside,Residence,Intentional self-harm (suicide),261
+2020,Sacramento,Residence,Intentional self-harm (suicide),179
+2020,San Benito,Residence,Intentional self-harm (suicide),
+2020,San Bernardino,Residence,Intentional self-harm (suicide),242
+2020,San Diego,Residence,Intentional self-harm (suicide),404
+2020,San Francisco,Residence,Intentional self-harm (suicide),77
+2020,San Joaquin,Residence,Intentional self-harm (suicide),92
+2020,San Luis Obispo,Residence,Intentional self-harm (suicide),42
+2020,San Mateo,Residence,Intentional self-harm (suicide),80
+2020,Santa Barbara,Residence,Intentional self-harm (suicide),52
+2020,Santa Clara,Residence,Intentional self-harm (suicide),174
+2020,Santa Cruz,Residence,Intentional self-harm (suicide),29
+2020,Shasta,Residence,Intentional self-harm (suicide),37
+2020,Sierra,Residence,Intentional self-harm (suicide),
+2020,Siskiyou,Residence,Intentional self-harm (suicide),11
+2020,Solano,Residence,Intentional self-harm (suicide),58
+2020,Sonoma,Residence,Intentional self-harm (suicide),68
+2020,Stanislaus,Residence,Intentional self-harm (suicide),52
+2020,Sutter,Residence,Intentional self-harm (suicide),11
+2020,Tehama,Residence,Intentional self-harm (suicide),12
+2020,Trinity,Residence,Intentional self-harm (suicide),
+2020,Tulare,Residence,Intentional self-harm (suicide),32
+2020,Tuolumne,Residence,Intentional self-harm (suicide),15
+2020,Ventura,Residence,Intentional self-harm (suicide),83
+2020,Yolo,Residence,Intentional self-harm (suicide),17
+2020,Yuba,Residence,Intentional self-harm (suicide),13
